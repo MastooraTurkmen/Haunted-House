@@ -24,3 +24,9 @@ $ gh repo clone MastooraTurkmen/Haunted-House
 $ cd haunted-hose
 ```
 
+
+## Deployment  📥
+
+1. How to deploy our project to netlify site?
+
+
