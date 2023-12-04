@@ -12,9 +12,15 @@ $ npm run dev
 ```
 $ pnpm install
 $ pnpm run dev
-````
+```
 
 ## For cloning the project 🪛
 
+```
+# Clone this repository
+$ gh repo clone MastooraTurkmen/Haunted-House
 
+# Go inside the repository
+$ cd haunted-hose
+```
 
