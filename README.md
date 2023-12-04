@@ -14,3 +14,7 @@ $ pnpm install
 $ pnpm run dev
 ````
 
+## For cloning the project 🪛
+
+
+
