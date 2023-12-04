@@ -30,5 +30,6 @@ $ cd haunted-hose
 1. How to deploy our project to netlify site?
 2. I use [Netlify App](https://app.netlify.com/) for deploying my projects.
 3. Go to Netlify site and select Add a new site.
+4. From there select **_Deploy with Github_**
 
 
