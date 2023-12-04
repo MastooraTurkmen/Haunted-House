@@ -1,5 +1,8 @@
 # HAUNTED HOUSES
 
+Introducing the most captivating and immersive haunted houses you've ever encountered. Step into a world where fear and excitement intertwine, and embark on an unforgettable journey through our meticulously designed and masterfully crafted haunted houses. 
+
+
 ## Before you Begin 🛠 🔨
 
 Write the following command in your terminal
