@@ -6,6 +6,11 @@ Write the following command in your terminal
 
 ```
 $ npm install
-$ npm start
+$ npm run dev
+````
+
+```
+$ pnpm install
+$ pnpm run dev
 ````
 
