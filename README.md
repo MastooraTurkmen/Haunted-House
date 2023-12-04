@@ -1,13 +1,11 @@
 # HAUNTED HOUSES
 
-Warning: Vite enforces using jsx syntax inside jsx/tsx files, so it will complain about that. Solution: rename `.js` files to `.jsx` :)
+## Before you Begin 🛠 🔨
 
-Quick start:
+Write the following command in your terminal
 
 ```
 $ npm install
 $ npm start
 ````
-
-Head over to https://vitejs.dev/ to learn more about using vite
 
