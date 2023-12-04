@@ -1,0 +1,29 @@
+Like most challenges, this one can be made easier by "chunking" it into more manageable pieces. For example:
+
+
+    1. Writing the general outline of the function for the component: 
+   
+        function ComponentName() {
+                
+        }
+     
+    2. Writing the return statement for the function: 
+    
+        function ComponentName() {
+            return [insert what you want to return here]
+        }        
+            
+    3. Setting up the props: 
+    
+        function ComponentName(props) {
+            return [insert what you want to return here with props now inserted]
+        }
+                  
+    4. Passing in the props: 
+    
+        <ComponentName 
+            someProp={something}
+            anotherProp={somethingElse}
+        />
+        
+    

@@ -1,0 +1,3 @@
+Remember that a prop's value can be any value of any valid data type: a number, a string, a boolean, or even an entire object (hint hint, nudge nudge). 
+
+Also remember that the names of your props can be anything you want them to be and that you can destructure them! 
