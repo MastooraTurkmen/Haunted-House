@@ -24,6 +24,7 @@ $ gh repo clone MastooraTurkmen/Haunted-House
 $ cd haunted-hose
 ```
 
+------
 
 ## Deployment  📥
 
@@ -37,4 +38,14 @@ $ cd haunted-hose
   + ![Alt text](./images/image-1.png)
 7. Now your project is Live.
 
+
+------
+
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+
+
+------
 
