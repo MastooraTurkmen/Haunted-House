@@ -1,8 +1,8 @@
 import React from "react"
 import { nanoid } from "nanoid"
 import housesForSale from "./data/housesForSale"
-import Logo from "./images/logo.png"
 import HouseCard from "./components/HouseCard"
+import {Logo} from ".images/logo.png"
 
 export default function App() {
     
