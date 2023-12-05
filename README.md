@@ -14,9 +14,11 @@ Introducing the most captivating and immersive haunted houses you've ever encoun
 ![mobile-screenshot](mobile-screenshot-of-site-6.png)
 
 
-![Alt text](./images/screenshot-of-site-1.png)
+### Desktop
 
-![Alt text](./images/screenshot-of-site2.png)
+![screenshot-of-site](./images/screenshot-of-site-1.png)
+![screenshot-of-site](./images/screenshot-of-site2.png)
+
 
 ## Before you Begin 🛠 🔨
 
