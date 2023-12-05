@@ -18,7 +18,7 @@ export default [
         haunted: true,
     },{
         id: nanoid(),
-        image: "./images/luis-muller-t1IcKA8HkUM-unsplash.jpg",
+        image: "https://i.postimg.cc/L5kv9n6G/luis-muller-t1-Ic-KA8-Hk-UM-unsplash.jpg",
         price: "$152,000",
         location: "Stumpsville, Indiana",
         squareFeet: "1,252",
