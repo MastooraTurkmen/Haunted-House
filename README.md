@@ -18,6 +18,7 @@ Introducing the most captivating and immersive haunted houses you've ever encoun
 
 ![tablet-screenshot](./Screenshots-imges/tablet-screenshot-of-site-1.png)
 ![tablet-screenshot](./Screenshots-imges/tablet-screenshot-of-site-2.png)
+![tablet-screenshot](./Screenshots-imges/tablet-screenshot-of-site-3.png)
 
 
 
