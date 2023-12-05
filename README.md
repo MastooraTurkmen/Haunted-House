@@ -4,7 +4,7 @@ https://haunted-houses.netlify.app/
 
 Introducing the most captivating and immersive haunted houses you've ever encountered. Step into a world where fear and excitement intertwine, and embark on an unforgettable journey through our meticulously designed and masterfully crafted haunted houses. 
 
-![Alt text](./images/screenshot-of-site.png)
+![Alt text](./images/screenshot-of-site-1.png)
 
 ![Alt text](./images/screenshot-of-site2.png)
 
