@@ -7,6 +7,8 @@ Introducing the most captivating and immersive haunted houses you've ever encoun
 ### Mobile
 
 ![Alt text](mobile-screenshot-of-site-1.png)
+![Alt text](mobile-screenshot-of-site-2.png)
+![Alt text](mobile-screenshot-of-site-3.png)
 
 
 ![Alt text](./images/screenshot-of-site-1.png)
