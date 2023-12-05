@@ -3,7 +3,7 @@ import {nanoid} from "nanoid"
 export default [
     {
         id: nanoid(),
-        image: "./images/eleanor-brooke-62ZrBo3PoKc-unsplash.jpg",
+        image: "https://i.postimg.cc/L88vS4d0/eleanor-brooke-62-Zr-Bo3-Po-Kc-unsplash.jpg",
         price: "$1,342,000",
         location: "Podunk, Ohio",
         squareFeet: "3,752",
