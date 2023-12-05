@@ -63,7 +63,7 @@ export default [
         haunted: true,
     },{
         id: nanoid(),
-        image: "./images/robbie-down-3IRIerl16nk-unsplash.jpg",
+        image: "https://i.postimg.cc/KvZRpRLw/robbie-down-3-IRIerl16nk-unsplash.jpg",
         price: "$142,000",
         location: "Hinterland, Virginia",
         squareFeet: "1,212",
