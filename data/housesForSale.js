@@ -78,7 +78,7 @@ export default [
         haunted: true,
     },{
         id: nanoid(),
-        image: "./images/peter-herrmann-eZaEWy2rAIc-unsplash.jpg",
+        image: "https://i.postimg.cc/HxRFccmx/peter-herrmann-e-Za-EWy2r-AIc-unsplash.jpg",
         price: "$380,120",
         location: "Backwoods, Oregon",
         squareFeet: "2,612",
