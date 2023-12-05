@@ -48,7 +48,7 @@ export default [
         haunted: true,
     },{
         id: nanoid(),
-        image: "./images/nathan-dumlao-Mw1JgIAuK6c-unsplash.jpg",
+        image: "https://i.postimg.cc/90ygDL18/nathan-dumlao-Mw1-Jg-IAu-K6c-unsplash.jpg",
         price: "$176,500",
         location: "Sticksville, Vermont",
         squareFeet: "956",
