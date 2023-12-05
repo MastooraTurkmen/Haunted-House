@@ -33,7 +33,7 @@ export default [
         haunted: true, 
     },{
         id: nanoid(),
-        image: "./images/amber-kipp-DJEkBfLp6bc-unsplash.jpg",
+        image: "https://i.postimg.cc/zDknfmkm/amber-kipp-DJEk-Bf-Lp6bc-unsplash.jpg",
         price: "$233,000",
         location: "Backwater, Tennessee",
         squareFeet: "1,995",
