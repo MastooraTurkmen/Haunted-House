@@ -6,12 +6,12 @@ Introducing the most captivating and immersive haunted houses you've ever encoun
 
 ### Mobile
 
-![mobile-screenshot](mobile-screenshot-of-site-1.png)
-![mobile-screenshot](mobile-screenshot-of-site-2.png)
-![mobile-screenshot](mobile-screenshot-of-site-3.png)
-![mobile-screenshot](mobile-screenshot-of-site-4.png)
-![mobile-screenshot](mobile-screenshot-of-site-5.png)
-![mobile-screenshot](mobile-screenshot-of-site-6.png)
+![mobile-screenshot](./Screenshots-imges/mobile-screenshot-of-site-1.png)
+![mobile-screenshot](./Screenshots-imges/mobile-screenshot-of-site-2.png)
+![mobile-screenshot](./Screenshots-imges/mobile-screenshot-of-site-3.png)
+![mobile-screenshot](./Screenshots-imges/mobile-screenshot-of-site-4.png)
+![mobile-screenshot](./Screenshots-imges/mobile-screenshot-of-site-5.png)
+![mobile-screenshot](./Screenshots-imges/mobile-screenshot-of-site-6.png)
 
 
 ### Desktop
