@@ -20,7 +20,7 @@ export default function App() {
 	return (
 		<div className="wrapper">
 			<header>
-				<img className="logo" src="images/logo.png" />
+				<img className="logo" src={Logo} />
 			</header>
 			<div className="house-cards-container">
                 {houseCards}
