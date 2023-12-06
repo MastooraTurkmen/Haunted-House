@@ -12,6 +12,7 @@ Introducing the most captivating and immersive haunted houses you've ever encoun
 + **Backwater, Tennessee**
 + **Sticksville, Vermont**
 + **Hinterland, Virginia**
++ **Backwoods, Oregon**
 
 
 ### Mobile
