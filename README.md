@@ -7,6 +7,8 @@ Introducing the most captivating and immersive haunted houses you've ever encoun
 
 **There are six types of Haunted Houses**
 
++ **Podunk, Ohio**
+
 ### Mobile
 
 ![mobile-screenshot](./Screenshots-imges/mobile-screenshot-of-site-1.png)
