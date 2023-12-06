@@ -11,6 +11,7 @@ Introducing the most captivating and immersive haunted houses you've ever encoun
 + **Stumpsville, Indiana**
 + **Backwater, Tennessee**
 + **Sticksville, Vermont**
++ **Hinterland, Virginia**
 
 
 ### Mobile
