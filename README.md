@@ -5,9 +5,10 @@ https://haunted-houses.netlify.app/
 Introducing the most captivating and immersive haunted houses you've ever encountered. Step into a world where fear and excitement intertwine, and embark on an unforgettable journey through our meticulously designed and masterfully crafted haunted houses. 
 
 
-**There are six types of Haunted Houses**
+**There are six types of Haunted Houses that Located in different Countries.**
 
 + **Podunk, Ohio**
++ **Stumpsville, Indiana**
 
 ### Mobile
 
