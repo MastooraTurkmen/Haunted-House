@@ -4,6 +4,9 @@ https://haunted-houses.netlify.app/
 
 Introducing the most captivating and immersive haunted houses you've ever encountered. Step into a world where fear and excitement intertwine, and embark on an unforgettable journey through our meticulously designed and masterfully crafted haunted houses. 
 
+
+**There are six types of Haunted Houses**
+
 ### Mobile
 
 ![mobile-screenshot](./Screenshots-imges/mobile-screenshot-of-site-1.png)
@@ -27,6 +30,7 @@ Introducing the most captivating and immersive haunted houses you've ever encoun
 ![screenshot-of-site](./Screenshots-imges/screenshot-of-site-1.png)
 ![screenshot-of-site](./Screenshots-imges/screenshot-of-site2.png)
 
+-----
 
 ## Before you Begin 🛠 🔨
 
