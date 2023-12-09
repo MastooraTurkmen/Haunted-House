@@ -29,7 +29,12 @@ Introducing the most captivating and immersive haunted houses you've ever encoun
     + [React](https://github.com/topics/react)
 
 
+2. **Tools** 🔧
 
+    + [Chrome](https://github.com/topics/chrome)
+    + [VSCode](https://github.com/topics/vscode)
+    + [Figma](https://github.com/topics/figma)
+    + [Netlify](https://github.com/topics/netlify)
 
 
 ------
