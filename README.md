@@ -5,7 +5,7 @@ https://haunted-houses.netlify.app/
 Introducing the most captivating and immersive haunted houses you've ever encountered. Step into a world where fear and excitement intertwine, and embark on an unforgettable journey through our meticulously designed and masterfully crafted haunted houses. 
 
 
-**There are six types of Haunted Houses that Located in different Countries.**
+**Six types of Haunted Houses Located in Different Countries.**
 
 + **Podunk, Ohio**
 + **Stumpsville, Indiana**
@@ -13,6 +13,26 @@ Introducing the most captivating and immersive haunted houses you've ever encoun
 + **Sticksville, Vermont**
 + **Hinterland, Virginia**
 + **Backwoods, Oregon**
+
+
+------
+
+## Languages and Tools are used 🛠 🖊
+
+1. **Languages** 🗣️
+
+    + [HTML](https://github.com/topics/html)
+    + [HTML5](https://github.com/topics/html5)
+    + [CSS](https://github.com/topics/css)
+    + [CSS3](https://github.com/topics/css3)
+    + [JavaScript](https://github.com/topics/javascript)
+    + [React](https://github.com/topics/react)
+
+
+
+
+
+------
 
 
 ### Mobile
@@ -68,9 +88,9 @@ $ cd haunted-hose
 
 ## Deployment  📥
 
-1. How to deploy our project to netlify site?
+1. How to deploy our project to the Netlify site?
 2. I use [Netlify App](https://app.netlify.com/) for deploying my projects.
-3. Go to Netlify site and select Add a new site.
+3. Go to the Netlify site and select Add a new site.
 4. From there select **_Deploy with Github_**.
 5. Then write your project name and select it.
 6. After selecting here you can see that the project **_Review configuration for Haunted-House_** and then select the **_Deploy Haunted-House_** Button.
